@@ -11,3 +11,7 @@ streamlit run app.py
 ## Dataset
 Upload CSV with:
 latitude, longitude, crime_type, hour, frequency
+## 🚀 Live Demo
+
+Click here to run the app:
+https://your-app-name.streamlit.app
